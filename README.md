@@ -1,3 +1,9 @@
+header{
+    
+    background-image: url(background.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    margin-bottom: 20px;
 }
 
     
